@@ -1,4 +1,4 @@
-package com.example.simpleSocialNet.controller.exceptions;
+package com.example.simpleSocialNet.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
